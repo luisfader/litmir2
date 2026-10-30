@@ -96,16 +96,19 @@
    "langs": [
     "ru"
    ],
-   "role": "Luis de la familia Fader, de Mendoza.",
+   "role": "Mendocino radicado en Moscú que vuelve a su tierra con Natalia y hereda la inmortalidad de los Fader.",
    "novels": [
     "tajna-semi-fader",
-    "el-misterio-de-los-fader",
-    "operacion-londres"
+    "el-misterio-de-los-fader"
    ],
    "localizations": {
     "ru": {
      "name": "Луис",
-     "description": "Выигрывает в лотерею и везёт Наталью из Москвы в Мендосу, край своего детства. Среди виноградников раскрывает тайну семейного проклятия Фадеров."
+     "description": "Мендосец, живущий в Москве, преподаватель языков и художник. Внезапно разбогатев — и упорно не объясняя как, — везёт Наталью в Мендосу. Там раскрывает проклятие Фадеров, побеждает шамана Лаутаро, получает бессмертие от прапрадеда Карла и с микрофоном в руке объявляет Мендосу столицей Аргентины.",
+     "images": [
+      "characters/img/luis-fader-1.jpg",
+      "characters/img/luis-fader-2.jpg"
+     ]
     }
    }
   },
@@ -298,15 +301,18 @@
    ],
    "role": "Detective que investiga la desaparición de Alicia en un tren misterioso.",
    "novels": [
-    "el-tren-fantasma",
-    "il-treno-fantasma",
     "prizrachnyj-poezd",
-    "anomalnyj-chas"
+    "anomalnyj-chas",
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
    ],
    "localizations": {
     "ru": {
      "name": "Марк",
-     "description": "Детектив тридцати пяти лет из Синеи, привыкший всё контролировать. Ищет Призрачный поезд, который увёз Алисию — женщину, которую он любил слишком сильно."
+     "description": "Детектив тридцати пяти лет из Синеи, привыкший всё контролировать. Ищет Призрачный поезд, который увёз Алисию — женщину, которую он любил слишком сильно. Позже, отдыхая в Мендосе «без рельсов», становится свидетелем ночи Вендимии и в интервью раскладывает дело Фадеров на салфетке.",
+     "images": [
+      "characters/img/marcos-1.jpg"
+     ]
     }
    }
   },
@@ -707,16 +713,18 @@
    "langs": [
     "ru"
    ],
-   "role": "Padre de Luis, en Mendoza.",
+   "role": "Padre de Luis, bisnieto de Karl Fader y, por decisión de su hijo, presidente de la Argentina.",
    "novels": [
     "tajna-semi-fader",
-    "el-misterio-de-los-fader",
-    "operacion-londres"
+    "el-misterio-de-los-fader"
    ],
    "localizations": {
     "ru": {
      "name": "Серхио",
-     "description": "Отец Луиса, живущий в Мендосе. Встречает сына и Наталью у виноградников у подножия Анд и хранит часть тайны семьи Фадер."
+     "description": "Отец Луиса и правнук бессмертного Карла Фадера. Покупает финку в Лухане, находит в арыке портфель с медовухой и отправляет брата Адольфо в нокаут. На празднике Вендимии сын назначает его президентом страны со столицей в Мендосе — Серхио соглашается при условии, что указы будут подписываться под виноградным навесом.",
+     "images": [
+      "characters/img/sergio-fader-1.jpg"
+     ]
     }
    }
   },
@@ -746,12 +754,14 @@
    ],
    "role": "Esposa de Sergio.",
    "novels": [
-    "dikij-chas-2"
+    "dikij-chas-2",
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
    ],
    "localizations": {
     "ru": {
      "name": "Моника",
-     "description": "Жена Серхио. Рассказывает Наташе о празднике Вендимии и переживает за Луиса и его жену."
+     "description": "Жена Серхио. Встречает Луиса и Наталью асадо, мате и миланесами, учит Наталью заваривать мате и называет её «доченькой». В ночь Вендимии прячется за колонной, ничего не пропуская, а став первой леди, проверяет каждый указ мужа."
     }
    }
   },
@@ -1035,16 +1045,20 @@
    "langs": [
     "ru"
    ],
-   "role": "Pareja de Luis en El misterio de los Fader.",
+   "role": "Moscovita, esposa de Luis, reina de la Vendimia de Mendoza Capital y el corazón de El misterio de los Fader.",
    "novels": [
     "tajna-semi-fader",
-    "el-misterio-de-los-fader",
-    "operacion-londres"
+    "el-misterio-de-los-fader"
    ],
    "localizations": {
     "ru": {
      "name": "Наталья",
-     "description": "Москвичка, с которой Луис отправляется из Москвы в Мендосу. Среди виноградников вместе с ним раскрывает тайну семьи Фадер."
+     "description": "Москвичка из Ховрина, графический дизайнер и художница, жена Луиса. Приезжает в Мендосу посмотреть на виноградники — и в первый же вечер становится королевой Вендимии Столицы. Остроумная, тёплая и бесстрашная: выигрывает рэп-баттл, скручивает Марию Сильвану Року «бабушкиным приёмом», называет лиса Патрикеичем и отказывается от национальной короны, потому что выбирает «то, что навсегда». Вечно пытается выяснить, как муж разбогател.",
+     "images": [
+      "characters/img/natalia-fader-1.jpg",
+      "characters/img/natalia-fader-2.jpg",
+      "characters/img/natalia-fader-3.jpg"
+     ]
     }
    }
   },
@@ -1616,18 +1630,19 @@
   },
   {
    "id": "dominigo-castro",
-   "name": "Dominigo Castro",
+   "name": "Domingo Castro (Kurüf)",
    "langs": [
     "ru"
    ],
-   "role": "Hombre con un maletín secreto.",
+   "role": "Mendocino de Dalvian que hace de intermediario entre Karl y los mapuches.",
    "novels": [
-    "tajna-semi-fader"
+    "tajna-semi-fader",
+    "el-misterio-de-los-fader"
    ],
    "localizations": {
     "ru": {
-     "name": "Доминиго Кастро",
-     "description": "Богатый житель Мендосы, который много лет ждал заветного портфеля, связанного с тайной семьи Фадер."
+     "name": "Доминго Кастро (Курюф)",
+     "description": "Богатый житель района Далвиан, которого мапуче зовут Курюф — «Ягуар». Получает от Карла портфель с картой сокровищ, ведёт раскопки у руин Качеуты, а в итоге оказывается преданным и в наручниках."
     }
    }
   },
@@ -2072,6 +2087,239 @@
     "ru": {
      "name": "Зверь",
      "description": "Гигантская тёмная масса с глазами, похожими на разбитые прожекторы, сотканная из миллионов украденных подсознаний."
+    }
+   }
+  },
+  {
+   "id": "julieta",
+   "name": "Julieta",
+   "langs": [
+    "ru"
+   ],
+   "role": "Mendocina, prima de Luis Fader, arrastrada por un zorro de madera a una aventura con portales por toda la Argentina.",
+   "novels": [
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Хулиета",
+     "description": "Мендосинка, двоюродная сестра Луиса Фадера. В день «магнитной аномалии» её бросают на свидании, а деревянный лис, вырезанный Мауро, уводит её через порталы от Жужуя до Игуасу и Пуэнте-дель-Инка. Обещает помнить за двоих. В «Тайне семьи Фадер» даёт интервью Наталье."
+    }
+   }
+  },
+  {
+   "id": "karl-fader",
+   "name": "Karl Fader",
+   "langs": [
+    "ru"
+   ],
+   "role": "Tatarabuelo de Luis, ingeniero alemán inmortal conocido como «el hechicero alemán».",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Карл Фадер",
+     "description": "Родился в Гамбурге в 1846 году; прапрадед Луиса, в некоторых кругах — «немецкий колдун». Он и есть инженер Карлос Фадер, строивший станцию в Качеуте. Продал медовуху в Париже времён Коммуны, а потом под шантажом отдал её Роке. Проклятый вечной жизнью, передаёт бессмертие Луису и наконец начинает стареть — и радуется каждому седому волосу."
+    }
+   }
+  },
+  {
+   "id": "heinrich",
+   "name": "Heinrich",
+   "langs": [
+    "ru"
+   ],
+   "role": "Guardián del secreto del hidromiel de los Fader, una poción de naturaleza paradójica que en manos puras puede curar cual",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Хайнрих",
+     "description": "Брат Карла, такой же бессмертный: элегантный человек в чёрных перчатках, меняющий портфели в музеях и парках. Вытаскивает Адольфо из тюрьмы с билетом в Германию, а когда всё заканчивается, берёт на себя асадо."
+    }
+   }
+  },
+  {
+   "id": "silvana-roca",
+   "name": "María Silvana Roca",
+   "langs": [
+    "ru"
+   ],
+   "role": "Política de Mendoza con una oficina llena de mapas viejos sobre la Campaña del Desierto. Termina detenida en pleno anfit",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Мария Сильвана Рока",
+     "description": "Праправнучка Хулио Архентино Роки, политик и активистка, осуждающая Завоевание пустыни. Хочет использовать медовуху как доказательство — и как политический капитал, — объединяется с шаманом Лаутаро и захватывает сцену Вендимии с армией воинов из прошлого, пока Наталья её не обезвреживает."
+    }
+   }
+  },
+  {
+   "id": "adolfo-fader",
+   "name": "Adolfo",
+   "langs": [
+    "ru"
+   ],
+   "role": "Hermano de Sergio, de mirada desafiante, que aparece entre los manifestantes.",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Адольфо",
+     "description": "Брат Серхио, бородатый и обиженный на весь мир. Упускает портфель в арыке, приводит на финку демонстрацию, получает удар от Серхио и укус от лиса и в итоге улетает в Германию с билетом от Хайнриха."
+    }
+   }
+  },
+  {
+   "id": "fernando-fader",
+   "name": "Fernando Fader",
+   "langs": [
+    "ru"
+   ],
+   "role": "El reconocido pintor argentino de principios del siglo XX, cuya casa-taller conserva su legado y cuyos cuadros guardan u",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Фернандо Фадер",
+     "description": "Знаменитый аргентинский художник начала XX века, сын Карла. Карл продлил ему жизнь медовухой, а в его картинах спрятаны подсказки — золотой флакон и лис в тени."
+    }
+   }
+  },
+  {
+   "id": "zorro-fader",
+   "name": "El zorro de la finca Fader",
+   "langs": [
+    "ru"
+   ],
+   "role": "Zorro de montaña que custodia la finca Fader.",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Патрикеич",
+     "description": "Горный лис, который открыл портфель и вылил медовуху в арык. С тех пор живёт на финке, кусает Адольфо, ведёт погоню по Мендосе и не отходит от Натальи, которая назвала его Патрикеичем. Карл намекает, что это может быть Рока, обречённый охранять Фадеров."
+    }
+   }
+  },
+  {
+   "id": "lautaro",
+   "name": "Lautaro",
+   "langs": [
+    "ru"
+   ],
+   "role": "Chamán mapuche que conoce la maldición de los Fader.",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Лаутаро",
+     "description": "Шаман мапуче — тот самый ребёнок, что проклял Карла среди погибших во время Завоевания пустыни. Подсказывает, как снять проклятие, но потом предаёт Науэля, открывает портал медовухой и приводит воинов прошлого на Вендимию, пока Луис не разбивает его жезл."
+    }
+   }
+  },
+  {
+   "id": "nahuel-kallfu",
+   "name": "Nahuel Kallfü",
+   "langs": [
+    "ru"
+   ],
+   "role": "Cacique mapuche que busca los tesoros de su pueblo.",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Науэль Кальфю",
+     "description": "Касик мапуче, «Синий Сильный». Получает от Карла карту сокровищ, отнятых во время Завоевания пустыни, и оказывается преданным своими же людьми в ночь раскопок на факультете."
+    }
+   }
+  },
+  {
+   "id": "antu",
+   "name": "Antu",
+   "langs": [
+    "ru"
+   ],
+   "role": "Joven guerrero mapuche.",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Анту",
+     "description": "Молодой мапуче, чьё имя означает «солнце». Находит в руинах Качеуты бутылку медовухи Карла и отдаёт её шаману Лаутаро; сдаёт Науэля жандармерии."
+    }
+   }
+  },
+  {
+   "id": "carlita-martinez",
+   "name": "Carlita Martínez",
+   "langs": [
+    "ru"
+   ],
+   "role": "Reina de la Vendimia de Las Heras, rival de Natalia.",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Карлита Мартинес",
+     "description": "Королева Лас-Эраса, «гордая индианка», которую поддерживают болельщики «Уракан Лас-Эрас». Вызывает Наталью на рэп-баттл, называет Луиса «фальшивым Фадером» и становится национальной королевой, когда Наталья снимает свою кандидатуру."
+    }
+   }
+  },
+  {
+   "id": "pierre",
+   "name": "Pierre",
+   "langs": [
+    "ru"
+   ],
+   "role": "Refugiado francés que revela el secreto de Karl a Roca.",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Пьер",
+     "description": "Французский коммунар, ограбивший парижский банк, чтобы купить эликсир Карла. В Буэнос-Айресе выдаёт тайну Роке, устраивает саботаж на верфи Карла и погибает, пытаясь украсть сокровища мапуче."
+    }
+   }
+  },
+  {
+   "id": "clara-periodista",
+   "name": "Clara (Canal 9)",
+   "langs": [
+    "ru"
+   ],
+   "role": "Periodista de Canal 9 en Mendoza.",
+   "novels": [
+    "el-misterio-de-los-fader",
+    "tajna-semi-fader"
+   ],
+   "localizations": {
+    "ru": {
+     "name": "Клара",
+     "description": "Журналистка «Канала 9» в Мендосе. Берёт интервью у Натальи, ставшей королевой Вендимии, а в конце романа — у детектива Марка и у Карла Фадера, «немецкого колдуна»."
     }
    }
   }
